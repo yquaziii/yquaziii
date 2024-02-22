@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm yquazi</h1>
-<h3 align="center">git commit -m "I'm all about the data engineering magic at Google!"</h3>
 
-### Enjoying my Contributions? :star: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :sparkles:
+<h1 align="center">Greetings! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm yquazi</h1> 
+ <h3 align="center">git commit -m "Crafting data engineering magic at Google!"</h3>  
 
-<p align="left"> <a href="https://twitter.com/yquaziii" target="blank"><img src="https://img.shields.io/twitter/follow/yquaziii?logo=twitter&style=for-the-badge" alt="yquaziii" /></a> </p>
+### Enjoying my Contributions? :star: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :sparkles:  <p align="left"> 
 
-- 👨‍💻 Find out more about me on [My Website](.github.io/)
-- 📝 Occasionally, I scribble thoughts on [Medium](https://.medium.com/)
-- 💬 Let's chat about ``` var topics = [ "airflow", "Python", "Data engineering" ] ```
-- 📫 Drop me a line at **yquaziii@gmail.com**
-- 📄 Dive into my journey & skills [My Resume]()
+ <a href="https://twitter.com/yquaziii" target="blank"><img src="https://img.shields.io/twitter/follow/yquaziii?logo=twitter&style=for-the-badge" alt="yquaziii" /></a></p> 
+
+ - 👨‍💻 Explore more about me on [My Website](.github.io/) 
+ - 📝 Occasionally, I share thoughts on [Medium](https://.medium.com/) 
+ - 💬 Let's discuss ``` var topics = [ "airflow", "Python", "Data engineering" ] ```  
+ - 📫 Drop me a line at **yquaziii@gmail.com**
+ - 📄 Dive into my journey & skills [My Resume]()
 
 **Languages and Tools:**
 
