@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  - 👨‍💻 Explore more about me on [My Website](.github.io/) 
  - 📝 Occasionally, I share thoughts on [Medium](https://.medium.com/) 
- - 💬 Let's discuss ``` var topics = [ "airflow", "Python", "Data engineering" ] ```  
+ - 💬 Let's discuss ```[ "airflow", "Python", "Data engineering" ] ```  
  - 📫 Drop me a line at **yquaziii@gmail.com**
  - 📄 Dive into my journey & skills [My Resume]()
 
